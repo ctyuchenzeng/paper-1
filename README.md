@@ -10,9 +10,9 @@ This repository contains data and code used in the paper:
 
 ## Structure
 
-- `data/raw/`: 原始数据（说明来源）
-- `data/processed/`: 清洗后的数据（说明处理方法）
-- `scripts/`: 分析代码
+- `data/raw/`: AURN_metadata.RData (ERA5) 原始数据（说明来源）
+- `data/processed/`: traffic.csv (AURN) 清洗后的数据（说明处理方法）
+- `scripts/`: test_wtv(H).py 分析代码
 - `figures/`: 生成的图表
 
 ## How to Use
